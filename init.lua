@@ -1,4 +1,10 @@
 require("user.settings")
-
 require("user.keymaps")
--- require("user.utlis-map")
+require("user.plugins")
+require("user.colorscheme")
+require("user.lualine")
+require("user.nvim-tree")
+require("user.treesitter")
+require("user.bufferline")
+require("user.cmp")
+require("user.lsp")
